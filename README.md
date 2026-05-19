@@ -1,5 +1,5 @@
 # yop:
-  hello soy sihroo solo soy un estudiante de ing en sistemas 
+  hello soy saihroo solo soy un estudiante de ing en sistemas 
 ## dc:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saihroo) 
 
