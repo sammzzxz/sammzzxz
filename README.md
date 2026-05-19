@@ -9,6 +9,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=sammzzxz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sammzzxz&theme=dracula&hide_border=false)<br/>
 
+<img width="640" height="640" alt="Chainsaw Man Idle Animation! -                   ___ ___#pixelart" src="https://github.com/user-attachments/assets/554cbc5d-470b-4c30-9342-e476f071ec31" />
 
 
 
